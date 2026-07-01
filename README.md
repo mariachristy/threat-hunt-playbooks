@@ -85,6 +85,4 @@ Three hunts in this repo (HUNT-002, HUNT-004, HUNT-005) identified concrete gaps
 
 ---
 
-## 📬 Contact
 
-Built by a Senior Security Consultant with 10+ years of blue team experience in SOC operations, incident response, and detection engineering.
